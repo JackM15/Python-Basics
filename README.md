@@ -8,4 +8,5 @@ Used for practicing Loops, Functions, Handling User Input, String Formatting, Ou
 # - random_number_game.py
 A command line number guessing game. The computer will generate a random number using the imported random library, then the user will have 5 chances to guess the number. 
 
-This was used for practicing Imports, Loops, Functions, handling user input, string formatting, output and math.
+This was used for practicing Imports, Loops, Functions, handling user input, string formatting, output and math. 
+Most importantly, this was great practice on error handling!
